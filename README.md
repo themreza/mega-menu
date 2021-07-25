@@ -3,6 +3,8 @@ For more projects and articles like this, please visit my blog: [Mohammad Tomara
 
 [![Mohammad Tomaraei](https://raw.githubusercontent.com/themreza/themreza/master/logo-mini.png)](https://tomaraei.com)
 
+![](img/mega-menu-ux-4.gif)
+
 ## Why would I need a mega menu?
 
 As your website grows and its hierarchy of pages becomes more complex, you may realize that simple horizontal or vertical menus are not optimal for effective user navigation. Similarly, there is the need for a larger space if you wish to improve the user experience by introducing visual cues such as icons and images. A mega menu is an example of a design pattern that could fulfill such demands and helps increase the conversion rate.
