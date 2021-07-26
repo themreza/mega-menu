@@ -36,7 +36,7 @@ Here is a  [Figma mockup](https://www.figma.com/file/Pfbgci2q6KDjNK5BRAfo6A/Unti
 
 ## Technical implementation
 
-We can now proceed with the actual implementation of the mega menu by creating a new Vue.js project. You could  [Vue CLI](https://cli.vuejs.org/guide/creating-a-project.html)  to create a new project on your computer, but for simplicity’s sake, I’m opting for an online development environment called  [CodeSandbox](https://codesandbox.io/). It comes with a  [Vue.js template](https://codesandbox.io/s/vue-vue) that you could fork to jump-start your project.
+We can now proceed with the actual implementation of the mega menu by creating a new Vue.js project. You can use  [Vue CLI](https://cli.vuejs.org/guide/creating-a-project.html)  to create a new project on your computer, but for simplicity’s sake, I’m opting for an online development environment called  [CodeSandbox](https://codesandbox.io/). It comes with a  [Vue.js template](https://codesandbox.io/s/vue-vue) that you could fork to jump-start your project.
 
 Copy the SVG icons you’d like to use to the  `assets`  folder. If you used an icon library in Figma, you can simply click on each icon and export it to an SVG file.
 
