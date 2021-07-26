@@ -331,7 +331,7 @@ Now it’s much easier to navigate toward sub-categories:
 
 ## Fine-tuning
 
-Although everything works expected, there’s one last improvement to make. The  `mousemove`  event is very sensitive and captures every little cursor movement. Moreover, it is unlikely for the user to move in a perfect vertical direction,. Therefore, calculating angle  `theta`  too often would result in some inaccuracies.
+Although everything works as expected, there’s one last improvement to make. The  `mousemove`  event is very sensitive and captures every little cursor movement. Moreover, it is unlikely for the user to move in a perfect vertical direction,. Therefore, calculating angle  `theta`  too often would result in some inaccuracies.
 
 If you look carefully, you could see the mouse jumping over some main categories, as indicated by the console:
 
